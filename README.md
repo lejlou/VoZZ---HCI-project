@@ -1,5 +1,7 @@
 # Human Computer Interaction project - "VoZZ" in Figma & Android Studio (Java)
 
+## Project Github link https://github.com/lejlou/VoZZ---HCI-project
+
 ## Group members
 - Danis Halkić (@dhalkic https://github.com/dhalkic)
 - Lejla Srna (@lejlou https://github.com/lejlou)
